@@ -21,7 +21,11 @@ Greetings! I'm **Nauditelm**, a dedicated testnet validator and a guardian of bl
 ## Let's Connect! 📬🤝
 If you're into blockchain testing or just want to exchange insights, I'm all ears! Let's push the boundaries of technology together. 🛠️🔗
 
-- 📫 How to reach me: [Nauditelm's Email](mailto:nauditelm@example.com- 😄 Pronouns: He/Him/His
+- 📘 GitBook: [go to my page](https://nauditelm.gitbook.io/)
+- 📫 How to reach me: [Nauditelm's Email](mailto:estherugochi303@gmail.com)
+- 🐦 My Twitter: [@Nauditelm](https://x.com/Nauditelm)
+- 🔷 My Discord: [@discord](https://discord.com/users/846391772590112778)
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I can identify a node's issue just by looking at the logs! 📜👀
 
 ---
