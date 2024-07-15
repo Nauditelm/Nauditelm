@@ -1,5 +1,7 @@
 # Welcome to Nauditelm's GitHub! 🌐🔍
 
+<img src="https://raw.githubusercontent.com/Nauditelm/profile_photos/main/Nauditelm-BG.png">
+
 ## Who am I? 🧐🔧
 Greetings! I'm **Nauditelm**, a dedicated testnet validator and a guardian of blockchain integrity. My mission is to ensure the reliability and security of emerging networks. 🛡️💻
 
